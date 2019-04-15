@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet."",
+      "She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet.",
   'example2':
       "Will you, won' t you, will you, won' t you, will you join the dance?",
   'example3':
