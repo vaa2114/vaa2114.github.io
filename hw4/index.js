@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet.',
   'example2':
-      ''Who for such dainties would not stoop?',
+      'Who for such dainties would not stoop?',
   'example3':
       'Begger that I am, I am euen poore in thankes; but I thanke you: and sure deare friends my thanks are too deare a halfepeny; were you not sent for?',
   'example4' :
