@@ -24,7 +24,7 @@ function showMetadata(metadataJSON) {
   document.getElementById('vocabularySize').textContent =
       metadataJSON['vocabulary_size'];
   document.getElementById('maxLen').textContent =
-      metadataJSON['MAX_LEN'];
+      metadataJSON['max_len'];
 }
 
 function settextField(text, predict) {
@@ -112,7 +112,7 @@ class Classifier {
     const metadata =
         await loadHostedMetadata(this.urls.metadata);
     showMetadata(metadata);
-    this.maxLen = metadata['MAX_LEN'];
+    this.maxLen = metadata['max_len'];
     console.log('maxLen = ' + this.maxLen);
     this.wordIndex = metadata['word_index']
   }
