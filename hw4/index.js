@@ -8,15 +8,14 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet.',
+      "She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet."",
   'example2':
-      'Who for such dainties would not stoop?',
+      "Will you, won' t you, will you, won' t you, will you join the dance?",
   'example3':
-      'Begger that I am, I am euen poore in thankes; but I thanke you: and sure deare friends my thanks are too deare a halfepeny; were you not sent for?',
+      "Begger that I am, I am euen poore in thankes; but I thanke you: and sure deare friends my thanks are too deare a halfepeny; were you not sent for?",
   'example4' :
-      'I shall not talk to you much; but I will tell you what you want to know.'
+      "I shall not talk to you much; but I will tell you what you want to know."
 };
-
 
 function status(statusText) {
   console.log(statusText);
