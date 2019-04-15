@@ -17,6 +17,7 @@ const examples = {
       'I shall not talk to you much; but I will tell you what you want to know.'
 };
 
+
 function status(statusText) {
   console.log(statusText);
   document.getElementById('status').textContent = statusText;
