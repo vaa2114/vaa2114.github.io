@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'She knows now what gentlemen are; and nothing but a gentleman in education and manner has any chance with Harriet.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      ''Who for such dainties would not stoop?',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Begger that I am, I am euen poore in thankes; but I thanke you: and sure deare friends my thanks are too deare a halfepeny; were you not sent for?',
+  'example4' :
+      'I shall not talk to you much; but I will tell you what you want to know.'
 };
 
 function status(statusText) {
